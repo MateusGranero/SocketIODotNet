@@ -1,0 +1,11 @@
+C:\Projetos\SocketIO4Net\c#\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe.config
+C:\Projetos\SocketIO4Net\c#\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe
+C:\Projetos\SocketIO4Net\c#\ClientSocket\ClientSocket\bin\Debug\ClientSocket.pdb
+C:\Projetos\SocketIO4Net\c#\ClientSocket\ClientSocket\bin\Debug\EngineIoClientDotNet.dll
+C:\Projetos\SocketIO4Net\c#\ClientSocket\ClientSocket\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\SocketIO4Net\c#\ClientSocket\ClientSocket\bin\Debug\SocketIoClientDotNet.dll
+C:\Projetos\SocketIO4Net\c#\ClientSocket\ClientSocket\bin\Debug\WebSocket4Net.dll
+C:\Projetos\SocketIO4Net\c#\ClientSocket\ClientSocket\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\SocketIO4Net\c#\ClientSocket\ClientSocket\obj\Debug\ClientSocket.csprojResolveAssemblyReference.cache
+C:\Projetos\SocketIO4Net\c#\ClientSocket\ClientSocket\obj\Debug\ClientSocket.exe
+C:\Projetos\SocketIO4Net\c#\ClientSocket\ClientSocket\obj\Debug\ClientSocket.pdb
